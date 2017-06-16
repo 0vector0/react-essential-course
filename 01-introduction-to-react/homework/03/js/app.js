@@ -115,4 +115,4 @@ var ContactList = React.createClass({
     }
 });
 
-ReactDOM.render(<ContactList/>, document.getElementById("content"));
+ReactDOM.render(<ContactList/>, document.getElementById('content'));
